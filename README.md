@@ -1,2 +1,0 @@
-# ahtesham
-project for cs 
